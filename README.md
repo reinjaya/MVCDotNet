@@ -1,2 +1,1 @@
 #TUGAS MVC .NET CORE 6
-# SbadminAnd.NET
